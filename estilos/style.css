@@ -31,12 +31,16 @@ section#login{
 
 }
 section#login > div#imagem{
+    display: block;
     background: #222271 url(../imagens/pexels-pixabay-273209.jpg);
     background-size: cover;
     background-position: left bottom;
     height: 200px;
+    transition: width .2s, height .2s;
+    transition-timing-function: ease;
 }
 section#login > div#formulario{
-    padding: 10px;
     display: block;
+    padding: 10px;
+    
 }
