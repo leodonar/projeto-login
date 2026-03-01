@@ -16,7 +16,8 @@ Telas extra-grandes: 1440px ou mais */
    }
    section#login{
         width: 80vw;
-        height: 500px;
+        height: 310px;
+
         
         
    } 
@@ -38,6 +39,7 @@ Telas extra-grandes: 1440px ou mais */
    }
     section#login{
         width: 920px;
+        height: 330px;
     }
     section#login > div#imagem{
         float: right;
